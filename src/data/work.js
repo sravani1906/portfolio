@@ -1,0 +1,42 @@
+export const WorkData = [
+  {
+    company: "NarrativeWave",
+    designation: "Software Engineer Intern",
+    dateJoining: "13-01-2021",
+    dateEnd: "Present",
+    companyLogo:require("../assets/image/NW.png").default,
+    work: "Worken on ETL process of various clients & integrated them into NaarativeWave’s SaaS platform using PI Web API, Python and Django",
+  },
+  {
+    company: "ASU Decision Theater",
+    designation: "Student Developer",
+    dateJoining: "21-01-2020",
+    dateEnd: "10-01-2021",
+    companyLogo:require("../assets/image/ASU.png").default,
+    work: "Building and maintaining full stack web applications using React, Redux, Flask and Python",
+  },
+  {
+    company: "Bizongo",
+    designation: "Software Engineer 2",
+    dateJoining: "01-03-2019",
+    dateEnd: "30-10-2019",
+    companyLogo:require("../assets/image/bizongo.jpeg").default,
+    work: "Worked as a senior front end developer on various tools and dashboards involving artwork flow management in packaging sector",
+  },
+  {
+    company: "DocsApp",
+    designation: "Full Stack Developer ",
+    dateJoining: "01-07-2018",
+    dateEnd: "28-02-2019",
+    companyLogo:require("../assets/image/docsapp.png").default,
+    work: "Developed Insurance dashboard for DocsApp using ReactJs and Node JS which is a common platform for Doctors, Customers and Insurance Vendors",
+  },
+  {
+    company: "NetApp",
+    designation: "Software Engineer",
+    dateJoining: "03-07-2014",
+    dateEnd: "30-06-2018",
+    companyLogo:require("../assets/image/NetApp.png").default,
+    work: "Served as a technical lead for ServiceNow - an enterprise management tool used by all engineering teams within NetApp for Incident/Problem reporting, Configuration/Asset Management",
+  },
+];
