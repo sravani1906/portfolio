@@ -13,7 +13,7 @@ function Skills() {
       <div className="skills-top">
         <div className="skills-info">
           My main area of my expertise is Front-end development and it all started with ReactJS which I self taught.<br/> 
-          I am currently focusing on backend development in my masters program at Arizona State University
+          I am currently focusing on backend development in my masters program at Arizona State University.
         </div>
         <div className="skill-cloud">
         <SkillCloud/>

@@ -11,8 +11,8 @@ export const SocialData = [
     link: "https://www.linkedin.com/in/sravanigandla/",
   },
   {
-    platform: "Instagram",
-    icon: require("../assets/icons/instagram.png").default,
-    link: "https://www.instagram.com/sravani.sajjan/",
+    platform: "Gmail",
+    icon: require("../assets/icons/gmail.png").default,
+    link: "mailto:sravanigandla19@gmail.com",
   },
 ];

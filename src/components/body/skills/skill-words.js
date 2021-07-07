@@ -91,9 +91,5 @@ const skillwords =  [
       text: "JSON",
       value: 15
     },
-    {
-      text: "Bootstrap",
-      value: 15
-    }
   ];
   export default skillwords

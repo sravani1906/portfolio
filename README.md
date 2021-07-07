@@ -75,3 +75,4 @@ The icons used in this website were taken from the below resources
 Devicon - https://devicon.dev/
 Flaticon - https://www.flaticon.com/
 Storyset - https://storyset.com/
+IconScout - https://iconscout.com/
