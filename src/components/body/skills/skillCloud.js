@@ -9,7 +9,7 @@ import words from "./skill-words";
 
 const options = {
   colors: ["#4d1a7f", "#6c4094", "#8a64a9", "#a789be", "#c5afd4", "#e2d7e9"],
-  enableTooltip: true,
+  enableTooltip: false,
   deterministic: false,
   fontFamily: "impact",
   fontSizes: [15, 60],
