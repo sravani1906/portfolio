@@ -49,11 +49,11 @@ const skillwords = [
   },
   {
     text: "Java",
-    value: 19,
+    value: 17,
   },
   {
     text: "SpringBoot",
-    value: 19,
+    value: 17,
   },
   {
     text: "D3JS",
